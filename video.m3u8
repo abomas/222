@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:16
-#EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
+
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Arabic",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ar",URI="https://raw.githubusercontent.com/abomas/222/refs/heads/main/MP4.vtt"
 #EXTINF:16.000000,
 https://media.githubusercontent.com/media/abomas/222/refs/heads/main/part_000.ts
