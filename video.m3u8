@@ -3,9 +3,11 @@
 #EXT-X-TARGETDURATION:16
 #EXT-X-PLAYLIST-TYPE:VOD
 
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Arabic",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ar",URI="https://raw.githubusercontent.com/abomas/222/refs/heads/main/MP4.vtt"
-#EXTINF:16.000000,
-https://media.githubusercontent.com/media/abomas/222/refs/heads/main/part_000.ts
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Arabic",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ar",URI="https://raw.githubusercontent.com/abomas/222/main/MP4.vtt"
+
+#EXT-X-STREAM-INF:BANDWIDTH=800000,SUBTITLES="subs"
+https://media.githubusercontent.com/media/abomas/222/main/part_000.ts
+
 #EXTINF:14.000000,
 https://media.githubusercontent.com/media/abomas/222/refs/heads/main/part_001.ts
 #EXTINF:16.000000,
