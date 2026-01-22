@@ -1,4 +1,3 @@
-#EXTM3U
-#EXT-X-VERSION:3
-
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Arabic",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ar",URI="https://media.githubusercontent.com/media/abomas/222/refs/heads/main/MP4.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",
+NAME="Arabic",LANGUAGE="ar",DEFAULT=YES,AUTOSELECT=YES,
+URI="subs.m3u8"
