@@ -4,6 +4,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:32.000,
-MP4.vtt
+https://raw.githubusercontent.com/abomas/222/refs/heads/main/MP4.vtt
 
 #EXT-X-ENDLIST
+
