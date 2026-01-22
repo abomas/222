@@ -4,8 +4,9 @@
 # تعريف الترجمة
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",
 NAME="Arabic",LANGUAGE="ar",DEFAULT=YES,AUTOSELECT=YES,
-URI="subs.m3u8"
+URI="https://raw.githubusercontent.com/abomas/222/refs/heads/main/MP4.vtt"
 
 # ربط الفيديو بالترجمة
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,SUBTITLES="subs"
 video.m3u8
+
