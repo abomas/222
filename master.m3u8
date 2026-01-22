@@ -8,5 +8,6 @@ URI="https://raw.githubusercontent.com/abomas/222/refs/heads/main/MP4.vtt"
 
 # ربط الفيديو بالترجمة
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,SUBTITLES="subs"
-video.m3u8
+https://raw.githubusercontent.com/abomas/222/refs/heads/main/video.m3u8
+
 
